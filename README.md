@@ -10,7 +10,7 @@ the data should be placed like :
 > ----p2.py<br />
 
 
-## Problem 1
+## Problem 1:  Epnp algorithm
 
   You can estimate the camera of query images by using the following command.
 
@@ -22,7 +22,7 @@ the data should be placed like :
 
     python3.8 draw_pyramid.py
       
-## Problem 2
+## Problem 2: Augmented Reality-Placing Virtual Cube in Video
   You can generate `output.avi`by using the following command.
 
     python3.8 p2.py
